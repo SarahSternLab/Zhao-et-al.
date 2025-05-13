@@ -1,6 +1,6 @@
 # Direct Interoceptive Input to the Insular Cortex Shapes Learned Feeding Behavior
 
-**Authors:** Zhe Zhao, [others], Sarah Stern  
+**Authors:** Zhe Zhao *et al*
 
 ---
 
