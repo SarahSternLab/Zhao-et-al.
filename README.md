@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository accompanies the research article **"Direct Interoceptive Input to the Insular Cortex Shapes Learned Feeding Behavior"** by Zhe Zhao *et al*. It may contain materials such as:
+This repository accompanies the article **"Direct Interoceptive Input to the Insular Cortex Shapes Learned Feeding Behavior"** by Zhe Zhao *et al*. It may contain materials such as:
 
 - Supplementary code
 - Analysis scripts
