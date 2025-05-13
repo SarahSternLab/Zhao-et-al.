@@ -10,7 +10,7 @@ This repository accompanies the research article **"Direct Interoceptive Input t
 
 - Supplementary code
 - Analysis scripts
-- Data (if permitted)
+- Data
 - Figures
 - Notes and supporting documentation
 
